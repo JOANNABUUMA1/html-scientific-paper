@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+img{
+    width: 420px;
+    height: auto;
+}
+p{
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
